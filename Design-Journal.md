@@ -10,7 +10,7 @@ Put markdown in here + thing wrote on wordpress
 
 Within the first week of Introduction to Communication Design we have started to all ready look at history and the furture of comunication design.
 
-We started to look at a program called <a href="https://atom.io/">atom</a> as this is a new but very good text editer that you can use. I have done code before but funny enough I found it strange at having an option of which Markdown attributes you use. To get our selfs use to this program we were given a PDF and we had to recreate what it looked like using markdown. As you can see this is what we have done.
+We started to look at a program called <a href="https://atom.io/">atom</a> as this is new and its a very good text editer that you can use. I have done code before but funny enough I found it strange at having an option of which Markdown attributes you use. To get our selfs use to this program we were given a PDF and we had to recreate what it looked like using markdown. As you can see this is what I have done. (you can see below my work what it is meant to look like).
 
 ####Ireland's rugged coast yields
 
@@ -21,7 +21,7 @@ Priceless Relics of the Spanish Armada
 
 ######*Illustrations by National Geographic Photographer Bates Lilttlehales*.
 
-A __wild north wind__ lashed the galleass as she sailed eastward across the top of Ireland. A monstrous wave had smashed her jury rudder; now she yawed and rolled in the troughs, making relentless leeway toward night-hidden cliffs to starboard.
+A WILD NORTH WIND lashed the galleass as she sailed eastward across the top of Ireland. A monstrous wave had smashed her jury rudder; now she yawed and rolled in the troughs, making relentless leeway toward night-hidden cliffs to starboard.
 
 >“In 1588 a ship of the Spanish Armada, the Girona was wrecked with the loss of almost all her company at a little cove near the *Giants Causeway* still called Port na Spaniagh, ‘the port of the Spaniards’.”
 
@@ -44,6 +44,8 @@ Four centuries later the shipwreck was discovered under 30 feet of icy water, tr
 
 *The Author* : Veteran Belgin dicer Robert Sténuit spent two days at 432 feet beneath the sea in a pioneering test he described in “The Deepest Days”, National Geographic, April 1965. Here he tells the dramatic story of finding the Girona.
 
+I found this 
+
 Then over the next couple of days we got split up into groups to mind map an app. Wha tthis involed was use doing a normal mind map the way you normaly do them. Then once we done that you then done a version were you drew picture that represents, instead of writing out the word. Then once you done this you had to pick two at random and draw a line connecting them. You then had to do this a coulpe of times as you then used this as the base idea of your app. 
 
 With this excersie came an underline message and that is all ways start on paper. The reason for this is becuase its easier to get you thought down on a piece of paper than on screen. With this you will have a better idea as you can brain storm a lot better. I know this as I would have not thought of the app we came up with in a million years but some how we did.
@@ -63,7 +65,13 @@ With this week we started to look at Dieter Rams as he was lucky to end up were 
 Week 2
 ------
 
-With this week we saw our journy into looking at the history of design start with the first form of art cave paintings. At the time of the lecture we were told that the earlist cave paintings were in Cantabria, but just a couple of days ago a group of scientist found 
+With this week we saw our journy into looking at the history of design start with the first form of art cave paintings. At the time of the lecture we were told that the earlist cave paintings were in Cantabria, but just a couple of days ago a group of scientist found.
+
+Also with this week I have decided to take advantage of the resoucres that I have at my disposal. What I mean is that while I am learning I may as well learn all that I can. So from this week on I will have a section were I write about what I have learnt on my own acored. I will mainly be reading books that I get from the libary, I have started with a book about typography. The book is called The Fundementals of Typeography and so far it seems like it will be a usefull book to read.
+
+So with that the book starts with a insite to were the writen letter started. I first realised that there is a lot more to our lanuage than i would have ever imagine. I knew that diferent countries read in different directions but I never knew that there are four different ways that you can. Most people read the Latin way left to right, but Arbic, Chinese and the Greek Boustrophedon read in different directions. The Arabic read from right to left. The Chinese read down and up this is because it was much easier for them to use there tools (paint brush) to draw the ideograms. Then you have the 
+
+![Greek Boustrophedon](http://etyman.files.wordpress.com/2011/10/boustrophedon-english.png)
 
 Week 3
 ------

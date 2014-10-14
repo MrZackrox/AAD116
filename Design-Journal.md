@@ -69,16 +69,18 @@ With this week we saw our journy into looking at the history of design start wit
 
 Also with this week I have decided to take advantage of the resoucres that I have at my disposal. What I mean is that while I am learning I may as well learn all that I can. So from this week on I will have a section were I write about what I have learnt on my own acored. I will mainly be reading books that I get from the libary, I have started with a book about typography. The book is called The Fundementals of Typeography and so far it seems like it will be a usefull book to read.
 
-So with that the book starts with a insite to were the writen letter started. I first realised that there is a lot more to our lanuage than i would have ever imagine. I knew that diferent countries read in different directions but I never knew that there are four different ways that you can. Most people read the Latin way left to right, but Arbic, Chinese and the Greek Boustrophedon read in different directions. The Arabic read from right to left. The Chinese read down and up this is because it was much easier for them to use there tools (paint brush) to draw the ideograms. Then you have the Greek Boustrophedon which read left, down then right. I went and found an example as I myself did not fully understand how they wrote, but hopefully now you can see what I meant. 
+So with that the book starts with a insite to were the writen letter started. I first realised that there is a lot more to our lanuage than i would have ever imagine. I knew that diferent countries read in different directions but I never knew that there are four different ways that you can. Most people read the Latin way left to right, but Arbic, Chinese and the Greek Boustrophedon read in different directions. The Arabic read from right to left. The Chinese read down and up this is because it was much easier for them to use there tools (paint brush) to draw the ideograms. Then you have the Greek Boustrophedon which read left, down then right. I went and found an example as I myself did not fully understand how they wrote, but hopefully now you can see what I meant.  (more on this later)
 
 ![Greek Boustrophedon](http://etyman.files.wordpress.com/2011/10/boustrophedon-english.png)
 
-The book then goes one to loo at Cuneifrom tablets. This is the e
+The book then goes one to look at Cuneifrom which is the esentualy the first language that we know of. Cuneiform was marked onto a wet clay tablet by using a wedge-shaped styles. It devloped from about 4,000 BC until about 100 BC in acient Mesopotamia. Sometimes you saw that cuneifrom was written from top to bottom in the early froms but it later changed left to right and this is when the cuneiform sign were turned on their side. They began to die out when other languages started to grow and as the use of Phoenician script increased.
+
+Personal thoughts- So so far I have enjoyed the book and I know that this is an important part of the process to become a "designer". With that I can not wait to start learning terms, line spacing and so on so that I can start to process other fonts etc that I see in day to day life (lets carry on).
+
+With me saying that I have a few new terms that I had sort of heard of but never really payed any attention to them.
 
 Week 3
 ------
-
-Have book out about the fundamentlas of type
 
 Week 4
 ------

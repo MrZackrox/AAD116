@@ -50,11 +50,20 @@ With this excersie came an underline message and that is all ways start on paper
 
 Friday Lecture
 
-As all ways the first lecutre was an introduction to the leacutre Paul McCormick and an overall look at the modual.
+As all ways the first lecutre was an introduction to the leacutre <a href="https://twitter.com/ElevenThirty">Paul McCormick</a> and an overall look at the modual. So with this modual if you have not all ready guessed, we are looking in to the history of type and desgin. We are looking at the complete spectrim of of designers that have inspired many others to follow in their footsteps.
+
+With this week we started to look at Dieter Rams as he was lucky to end up were he did. As you see if he didn't design the iconic Braun Radio he would not have been on Jonathan Ive's radar so then he would have not been in the postion to design the first iMac. 
+
+  A bit about Dieter Rams; In 1995 Dieter was introduced to Niels Vitsoe who at the time was selling furniture when they first met. This is when they came up with the company Vitsoe+Zapf so that they could sell Rams's furniture designs. The Zapf part of the name is from the Otto Zapf the man who introuduced Rams and Niels to each other. Thought Zapf left in 1969 so the company simply becamse Vitsoe. The company then in 1985 got set up in United Kingdom with the help of Mark Adams. Still to this day the company is selling directly to customers in over 40 countries.
+  
+  Lets go back a bit further and look at Dieter Rams before he was noticed. He was born in 1932 in Germany. in his younger years he was inspired by his grandfather who was a carpenter. So with this inspitration he went down the path of becoming an architect when Germany was getting rebuilt in the early 1950s. Leater on he luckly got a job in Braun when his friend saw it being advertised. He then got hired buy Erwin and Artur Braun after the death of there father. His job was to modernise the interiors of the company. He quickly then became involved in product design
+  
 
 
 Week 2
 ------
+
+With this week we saw our journy into looking at the history of design start with the first form of art cave paintings. At the time of the lecture we were told that the earlist cave paintings were in Cantabria, but just a couple of days ago a group of scientist found 
 
 Week 3
 ------

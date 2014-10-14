@@ -10,7 +10,7 @@ Put markdown in here + thing wrote on wordpress
 
 Within the first week of Introduction to Communication Design we have started to all ready look at history and the furture of comunication design.
 
-We started to look at a program called <a href="https://atom.io/">atom</a> as this is new and its a very good text editer that you can use. I have done code before but funny enough I found it strange at having an option of which Markdown attributes you use. To get our selfs use to this program we were given a PDF and we had to recreate what it looked like using markdown. As you can see this is what I have done. (you can see below my work what it is meant to look like).
+We started to look at a program called <a href="https://atom.io/">Atom</a> as this is new and its a very good text editer that you can use. I have done code before but funny enough I found it strange at having an option of which Markdown attributes you use. To get our selfs use to this program we were given a PDF and we had to recreate what it looked like using markdown. As you can see this is what I have done. (you can see below my work what it is meant to look like).
 
 ####Ireland's rugged coast yields
 
@@ -69,9 +69,11 @@ With this week we saw our journy into looking at the history of design start wit
 
 Also with this week I have decided to take advantage of the resoucres that I have at my disposal. What I mean is that while I am learning I may as well learn all that I can. So from this week on I will have a section were I write about what I have learnt on my own acored. I will mainly be reading books that I get from the libary, I have started with a book about typography. The book is called The Fundementals of Typeography and so far it seems like it will be a usefull book to read.
 
-So with that the book starts with a insite to were the writen letter started. I first realised that there is a lot more to our lanuage than i would have ever imagine. I knew that diferent countries read in different directions but I never knew that there are four different ways that you can. Most people read the Latin way left to right, but Arbic, Chinese and the Greek Boustrophedon read in different directions. The Arabic read from right to left. The Chinese read down and up this is because it was much easier for them to use there tools (paint brush) to draw the ideograms. Then you have the 
+So with that the book starts with a insite to were the writen letter started. I first realised that there is a lot more to our lanuage than i would have ever imagine. I knew that diferent countries read in different directions but I never knew that there are four different ways that you can. Most people read the Latin way left to right, but Arbic, Chinese and the Greek Boustrophedon read in different directions. The Arabic read from right to left. The Chinese read down and up this is because it was much easier for them to use there tools (paint brush) to draw the ideograms. Then you have the Greek Boustrophedon which read left, down then right. I went and found an example as I myself did not fully understand how they wrote, but hopefully now you can see what I meant. 
 
 ![Greek Boustrophedon](http://etyman.files.wordpress.com/2011/10/boustrophedon-english.png)
+
+The book then goes one to loo at Cuneifrom tablets. This is the e
 
 Week 3
 ------

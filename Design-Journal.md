@@ -56,11 +56,17 @@ As all ways the first lecutre was an introduction to the leacutre <a href="https
 
 With this week we started to look at Dieter Rams as he was lucky to end up were he did. As you see if he didn't design the iconic Braun Radio he would not have been on Jonathan Ive's radar so then he would have not been in the postion to design the first iMac. 
 
-  A bit about Dieter Rams; In 1995 Dieter was introduced to Niels Vitsoe who at the time was selling furniture when they first met. This is when they came up with the company Vitsoe+Zapf so that they could sell Rams's furniture designs. The Zapf part of the name is from the Otto Zapf the man who introuduced Rams and Niels to each other. Thought Zapf left in 1969 so the company simply becamse Vitsoe. The company then in 1985 got set up in United Kingdom with the help of Mark Adams. Still to this day the company is selling directly to customers in over 40 countries.
-  
-  Lets go back a bit further and look at Dieter Rams before he was noticed. He was born in 1932 in Germany. in his younger years he was inspired by his grandfather who was a carpenter. So with this inspitration he went down the path of becoming an architect when Germany was getting rebuilt in the early 1950s. Leater on he luckly got a job in Braun when his friend saw it being advertised. He then got hired buy Erwin and Artur Braun after the death of there father. His job was to modernise the interiors of the company. He quickly then became involved in product design
-  
+![Dieter Rams](http://www.lifeofanarchitect.com/wp-content/uploads/2011/05/Dieter-Rams-and-his-designs.jpg)
 
+A bit about Dieter Rams; In 1995 Dieter was introduced to Niels Vitsoe who at the time was selling furniture when they first met. This is when they came up with the company Vitsoe+Zapf so that they could sell Rams's furniture designs. The Zapf part of the name is from the Otto Zapf the man who introuduced Rams and Niels to each other. Thought Zapf left in 1969 so the company simply becamse Vitsoe. The company then in 1985 got set up in United Kingdom with the help of Mark Adams. Still to this day the company is selling directly to customers in over 40 countries.
+
+Lets go back a bit further and look at Dieter Rams before he was noticed. He was born in 1932 in Germany. In his younger years he was inspired by his grandfather who was a carpenter. So with this inspitration he went down the path of becoming an architect when Germany was getting rebuilt in the early 1950s. Leater on he luckly got a job in Braun when his friend saw it being advertised. He then got hired buy Erwin and Artur Braun after the death of there father. His job was to modernise the interiors of the company. He quickly then became involved in product design and this is were we saw the clear perspex lid on the SK4 radiogram and many other versions used the same type of lid.
+  
+  ![SK4 radiogram](https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/254/crops/350.jpg)
+
+At this point he became the head of deisgn at Braun until 1995. Over the years at Braun Rams had many influances into what electrical products look like now and some furniture. He most recent work is used used daily by millions of people world wide and what is this product you might ask? Well it is the range of Apple products that he ispired. He started of by designing the first iMac when Jonathan Ive saw the brilliance in his work (a lot of other people did as well). Dieter Rams will live on for ever but not because he made interesting products but that he has inspired so many people to follow in his footsteps.
+
+This course is trying to put the 
 
 Week 2
 ------

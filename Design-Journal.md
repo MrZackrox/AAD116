@@ -44,11 +44,7 @@ Four centuries later the shipwreck was discovered under 30 feet of icy water, tr
 
 *The Author* : Veteran Belgin dicer Robert Sténuit spent two days at 432 feet beneath the sea in a pioneering test he described in “The Deepest Days”, National Geographic, April 1965. Here he tells the dramatic story of finding the Girona.
 
-I found this 
-
-Then over the next couple of days we got split up into groups to mind map an app. Wha tthis involed was use doing a normal mind map the way you normaly do them. Then once we done that you then done a version were you drew picture that represents, instead of writing out the word. Then once you done this you had to pick two at random and draw a line connecting them. You then had to do this a coulpe of times as you then used this as the base idea of your app. 
-
-With this excersie came an underline message and that is all ways start on paper. The reason for this is becuase its easier to get you thought down on a piece of paper than on screen. With this you will have a better idea as you can brain storm a lot better. I know this as I would have not thought of the app we came up with in a million years but some how we did.
+I found this task to ok it wasnt the most challanging but it still took a bit of effort to learn the new syntax. Personaly I don't mind the syntax it took a bit off getting use to but I fell that was more because I have all ready learnt html etc. So it was interesting to see an other why in which you can style text etc for the web.
 
 Friday Lecture
 

@@ -102,9 +102,9 @@ Once we got the GitHub stuff out of the way and done with now came the task of w
 
 So to start I went to my twitter acount and looked at the designers that I follow. I found it strange that some did not have a bio section. I guess that these are the ones who everyone has heard of so they dont really need to state who they are. Through my reasearch I saw that a lot of them delve into there past, this could simply be were they grew up our what project the done last.
 
-In my case I have desided to leave that infromation out as I fell that people are no
+In my case I have decided to leave that infromation out as I fell that people are no
 
-A thought- The bio page is meant to be personal so who ever comes to few it is trying to form a connection with you and if this is true would you be better of using key words which most people can relate. Which is what I have seen a lot throught out my research. I find that they will all be different as it depends on the how much space you have to write about yourself.  
+The bio page is meant to be personal so who ever comes to few it is trying to form a connection with you and if this is true would you be better of using key words which most people can relate. Which is what I have seen a lot throught out my research. I find that they will all be different as it depends on the how much space you have to write about yourself.  
 
 
 Week 3

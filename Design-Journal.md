@@ -83,8 +83,7 @@ Personal thoughts- So so far I have enjoyed the book and I know that this is an 
 
 With me saying that I have a few new terms that I had sort of heard of but never really payed any attention to them.
 
-<p> We then went onto look at the Golden Ratio. I remember seeing something about the Golden Ratio on Youtube, the video I saw was called <a href="http://www.youtube.com/watch?v=ahXIMUkSXX0">Doodling in Math</a>. As you see on the video the Golden Ratio is based on the Fibonacci Sequence, where you start with adding 1+1=2 then 1+2=3 then 2+3=5 and so on. The Golden Ratio is every where you look, its in the human body, art 
-				and plants. </p>
+We then went onto look at the Golden Ratio. I remember seeing something about the Golden Ratio on Youtube, the video I saw was called <a href="http://www.youtube.com/watch?v=ahXIMUkSXX0">Doodling in Math</a>. As you see on the video the Golden Ratio is based on the Fibonacci Sequence, where you start with adding 1+1=2 then 1+2=3 then 2+3=5 and so on. The Golden Ratio is every where you look, its in the human body, art and plants.
 				
 					<img src="applying_golden_ratio.png" alt="Image of Golden Ratio Being Applied" title="Golden Ratio Being Appled"/>
 				
@@ -100,12 +99,13 @@ With this semiar we got introduced to GitHub. As with anything new it all seemed
 
 Once we got the GitHub stuff out of the way and done with now came the task of writing a brief yet interesting tid bit about youself for the home page. For this we were suggested to look at the other many of great designers out there and see how they present them selfs in their bios.
 
-So to start I went to my twitter acount and looked at the designers that I follow. I found it strange that some did not have a bio section. I guess that these are the ones who everyone has heard of so they dont really need to state who they are. Through my reasearch I saw that a lot of them delve into there past, this could simply be were they grew up our what project the done last.
+So to start I went to my twitter acount and looked at the designers that I follow. I found it strange that some did not have a bio section. I guess that these are the ones who everyone has heard of so they dont really need to state who they are. Through my reasearch I saw that a lot of them delve into there past, this could simply be were they grew up our what project the done last. In my case I have decided to leave my past out as at this point people don't really need or care about were I grew up as I have offered nothing worth wild to them. I came to this conclusion by looking at <a href="http://j-scott.com/about/">J-Scott</a> who is a very good illustrator and animator. I was also helped to this conlusion by looking at many other designers bio pages.
 
-In my case I have decided to leave that infromation out as I fell that people are no
+The bio page is meant to be personal so who ever comes to few it is trying to form a connection with you and if this is true would you be better of using key words which most people can relate to. Which is what I have seen a lot throught out my research. I find that they will all be different as it depends on the how much space you have to write about yourself. But a lot of people now a days are trying to describe themselfs in least amount of words possable. I fell what might be having an affect on this is Twitter and so on, as when you are filling out you bio on then you only have a certain amount of words that you can use. 
 
-The bio page is meant to be personal so who ever comes to few it is trying to form a connection with you and if this is true would you be better of using key words which most people can relate. Which is what I have seen a lot throught out my research. I find that they will all be different as it depends on the how much space you have to write about yourself.  
+So this is the way I am looking at it. I want to make my bio small but yet insightful to whom I am a person but more so a designer. Because this is one thing that I have seen time and time again everyone one all ways writes about the work etics and so on. But in my case I dont have any yet, but I have all ways stood by one thing in my life and that is if I can inspire one person I will be happy. 
 
+So over all I learnt that you want to give the reader informtion about you past, but in this intanse as I said before I am leaving it out until hopfully one day people will actually want to hear about childhood etc. Then on top of that you want to convay what interest you as a person/ deaigner. Then finally you can have a 
 
 Week 3
 ------

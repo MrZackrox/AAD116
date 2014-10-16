@@ -46,7 +46,7 @@ Four centuries later the shipwreck was discovered under 30 feet of icy water, tr
 
 I found this task to ok it wasn't the most challenging but it still took a bit of time and effort to learn the new syntax. Personally I don't mind the syntax, but it took a bit off getting use to but I fell that was more because I have all ready learnt html etc. So it was interesting to see an other why in which you can style text etc for the web.
 
-Friday Lecture
+##Friday Lecture
 
 As all ways the first lecutre was an introduction to the leacutre <a href="https://twitter.com/ElevenThirty">Paul McCormick</a> and an overall look at the modual. So with this modual if you have not all ready guessed, we are looking in to the history of type and design. We are looking at the complete spectrum of of designers that have inspired many others to follow in their footsteps.
 
@@ -93,6 +93,20 @@ This is me trying the Golden Ratio of Youtube as I wanted to see if I could star
 We then looked at books because for many years this was the only way to share information with each other. Like everything books were extremely expensive as a person who got the title of a scribe had to make them by hand, which took months to complete one.
 				
 At this time you have lovely examples of amazing design talent with the illuminated manuscripts that were made. This technique consists of words being surrounded in decoration such as boarders, initials and so on. This type of book making was only for the rich our for special books such as the main Bible for a Church. A very famous book that was done in this style in the <a href="http://en.wikipedia.org/wiki/Book_of_Kells">Book of Kells</a> which about the four Gospels of the New Testament.
+
+##Friday Semiar
+
+With this semiar we got introduced to GitHub. As with anything new it all seemed a bit confussing, but once it was explaind to us what eachthing done it became quite simple to use. With this we need to set up a home page for our selfs so that we can get our work out to the world. 
+
+Once we got the GitHub stuff out of the way and done with now came the task of writing a brief yet interesting tid bit about youself for the home page. For this we were suggested to look at the other many of great designers out there and see how they present them selfs in their bios.
+
+So to start I went to my twitter acount and looked at the designers that I follow. I found it strange that some did not have a bio section. I guess that these are the ones who everyone has heard of so they dont really need to state who they are. Through my reasearch I saw that a lot of them delve into there past, this could simply be were they grew up our what project the done last.
+
+In my case I have desided to leave that infromation out as I fell that people are no
+
+A thought- The bio page is meant to be personal so who ever comes to few it is trying to form a connection with you and if this is true would you be better of using key words which most people can relate. Which is what I have seen a lot throught out my research. I find that they will all be different as it depends on the how much space you have to write about yourself.  
+
+
 Week 3
 ------
 

@@ -108,9 +108,9 @@ So over all I learnt that you want to give the reader informtion about your past
 Week 3
 ------
 
-With a new week begging we started to look at Guttenberg and moveable type. We started of with the printing press as this is what revolutionised how information was spread. So 
+With a new week begging we started to look at Guttenberg and moveable type. We started of with the printing press as this is what revolutionised how information was spread. I have been a massive fan of typography for a long time now and I have all ways appreciated the level of detail in type. So before I go and write about the history of type I would like to write about a typographer that has inspired me to try it for myself.
 
-
+Sense I have all ready been keen on typography I have all ready seen a lot's of examples of the amazing talent that's out there. For me I like hand lettering better, I saw this post on <a href="http://www.reddit.com/">Reddit</a> which just blew my mind and inspired it. The <a href="http://imgur.com/a/h6fss">post</a> was just some typography that this guy done, but for some reason it just mead me fell oddly wired about my self as I questioned my whole being wondering about how good I could be at it. The guy who done typography is called <a href="http://seanwes.com/">Sean McCabe</a>, he is a very talented guy and his work is just amazing. From seeing his work I have all ways tried now and again to do some of type me self but was only ok at it. Though when starting this course I have saw a lot more inspirational things which is making me stick at doing it sort of.
 
 Week 4
 ------

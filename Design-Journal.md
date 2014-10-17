@@ -85,9 +85,7 @@ With me saying that I have a few new terms that I had sort of heard of but never
 
 We then went onto look at the Golden Ratio. I remember seeing something about the Golden Ratio on Youtube, the video I saw was called <a href="http://www.youtube.com/watch?v=ahXIMUkSXX0">Doodling in Math</a>. As you see on the video the Golden Ratio is based on the Fibonacci Sequence, where you start with adding 1+1=2 then 1+2=3 then 2+3=5 and so on. The Golden Ratio is every where you look, its in the human body, art and plants.
 				
-					<img src="applying_golden_ratio.png" alt="Image of Golden Ratio Being Applied" title="Golden Ratio Being Appled"/>
-				
-This is me trying the Golden Ratio of Youtube as I wanted to see if I could start to spot websites that us it. You do have Twitter which is known of using the Golden Ratio. We then found out that a man by the name of Tim Brown created a <a href="http://modularscale.com/">Modular Scale</a> in which it calculates the scale of you text.
+We then found out that a man by the name of Tim Brown created a <a href="http://modularscale.com/">Modular Scale</a> in which it calculates the scale of you text.
 				
 We then looked at books because for many years this was the only way to share information with each other. Like everything books were extremely expensive as a person who got the title of a scribe had to make them by hand, which took months to complete one.
 				
@@ -105,7 +103,7 @@ The bio page is meant to be personal so who ever comes to few it is trying to fo
 
 So this is the way I am looking at it. I want to make my bio small but yet insightful to whom I am a person but more so a designer. Because this is one thing that I have seen time and time again everyone one all ways writes about the work etics and so on. But in my case I dont have any yet, but I have all ways stood by one thing in my life and that is if I can inspire one person I will be happy. 
 
-So over all I learnt that you want to give the reader informtion about you past, but in this intanse as I said before I am leaving it out until hopfully one day people will actually want to hear about childhood etc. Then on top of that you want to convay what interest you as a person/ deaigner. Then finally you can have a 
+So over all I learnt that you want to give the reader informtion about your past, but in this intanse as I said before I am leaving it out until hopfully one day people will actually want to hear about my childhood etc. The past can even involve past work that you have done, as this is what probably made you a known designer Then on top of that you want to convay what interests you as a person/ designer. Then finally you can have a bit about 
 
 Week 3
 ------

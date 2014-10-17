@@ -6,8 +6,6 @@ Design Journal  for Introduction to Communication Design
 Week 1
 ------
 
-Put markdown in here + thing wrote on wordpress
-
 Within the first week of Introduction to Communication Design we have started to all ready look at history and the future of communication design.
 
 We started to look at a program called <a href="https://atom.io/">Atom</a> as this is new and its a very good text editor that you can use. I have done code before but funny enough I found it strange at having an option of which Markdown attributes you use. To get our selves use to this program we were given a PDF and we had to recreate what it looked like using markdown. As you can see this is what I have done. (you can see below my work what it is meant to look like).

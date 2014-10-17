@@ -108,6 +108,10 @@ So over all I learnt that you want to give the reader informtion about your past
 Week 3
 ------
 
+With a new week begging we started to look at Guttenberg and moveable type. We started of with the printing press as this is what revolutionised how information was spread. So 
+
+
+
 Week 4
 ------
 

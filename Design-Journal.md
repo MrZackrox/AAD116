@@ -40,7 +40,7 @@ Four centuries later the shipwreck was discovered under 30 feet of icy water, tr
 * Silver sculpture of a grotesque face.
 * Gold ducats.
 
-**The Author** : Veteran Belgin dicer Robert Sténuit spent two days at 432 feet beneath the sea in a pioneering test he described in “The Deepest Days”, National Geographic, April 1965. Here he tells the dramatic story of finding the Girona.
+**The Author** : Veteran Belgin dicer Robert Sténuit spent two days at 432 feet beneath the sea in a pioneering test he described in “The Deepest Days”, NATIONAL GEOGRAPHIC, April 1965. Here he tells the dramatic story of finding the Girona.
 
 I found this task to ok it wasn't the most challenging but it still took a bit of time and effort to learn the new syntax. Personally I don't mind the syntax, but it took a bit off getting use to but I fell that was more because I have all ready learnt html etc. So it was interesting to see an other why in which you can style text etc for the web.
 

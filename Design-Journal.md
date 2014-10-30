@@ -141,33 +141,37 @@ Tokyo was lucky to have the games in 1964. This game was not just important for 
 
 The two main people behind the successful design of the Tokyo Olympics was Masaru Katzumie and Yusaku Kemekura.
 
-Every aspect of this Olympic games showed a class of design that we had not seen for Tokyo before. You can see this in the posters that were made for the event. The first one as you can see now have a very iconic look and feel to it. 
+Every aspect of this Olympic games showed a class of design that we had not seen from Tokyo before. You can see this in the posters that were made for the event.
 
-It is said that Yusaku Kamekura forgot when the submission deadline for the a poster was until he got a call informing the deadline was today. He then supposable made this poster in less than two hours. I have no doubt that he could have done that but he probably have a very good idea of what way the poster/logo was going to look like. The poster uses the iconic red Japanese sun which announces to the world ,"We Are Back" and stamps Japan's identity on the games. You then have the five rings and the text being a gold colour. This can insinuate that Tokyo has wealth and status but the games will also be successful. The poster no doubt is very minimalism but it has so much class which Tokyo needed to be seen to have.
-other poster?
+The first one as you can see now have a very iconic look and feel to it. It is said that Yusaku Kamekura forgot when the submission deadline for the a poster was until he got a call informing the deadline was today. He then supposable made this poster in less than two hours. I have no doubt that he could have done that but he probably have a very good idea of what way the poster/logo was going to look like.
 
-There are a few important aspects of the design from this Olympics but the most important is the use of pictograms.  Masaru Katzumie and Yusaku Kemekura saw the importance of making an international standardized signage system.  For this they knew that pictograms would be the easiest way to create this system.  As they didn't want to have signs for all the different languages for each country as it would be too confusing for the spectators.  So they created the  geometrically stylized pictograms using a square field with a grid.
+The poster uses the iconic red Japanese sun which announces to the world ,"We Are Back" and stamps Japan's identity on the games. You then have the five rings and the text being a gold colour. This can insinuate that Tokyo has wealth and status but also that the games will also be successful. The poster no doubt is very minimalism but it has so much class which Tokyo needed to be seen to have.
 
-To start we first need to look at the London Olympic games in 1948. The reason for this because this is when we first saw pictograms being used. As you can see the pictograms that were used look very English with that Victorian style to them with the crest like look about them. And people from other countries might not understand what these stand for.
+There are a few important aspects of the design from this Olympics but the most important is the use of pictograms.  Masaru Katzumie and Yusaku Kemekura saw the importance of making an international standardized signage system.  For this they knew that pictograms would be the easiest way to create this system. 
+
+As they didn't want to have signs for all the different languages for each country as it would be too confusing for the spectators.  So they created the  geometrically stylized pictograms using a square field with a grid.
+
+To start we first need to look at the London Olympic games in 1948. The reason for this because this is when we first saw pictograms being used. As you can see the pictograms that were used look very English with that Victorian style to them with the crest like look about them. And people from other countries might not understand what these stand for. Then on top of this the were not a system of communication but merely an illustation of the events.
  
 I also found out that they drew inspiration from Otto Meurath and Gerd Arntz who at the time was creating a info graphic form known as Isotype. 
  
-
 But before I talk about this here is an example of the grid that is similar to what they used but this is for a different Olympic games.
   
-
-As you can see below this is what the pictograms looked like at the games.
- 
+As you can see below this is what the pictograms looked like at the games. As you can see they are very basic bold stick figures that only capture the key movements of the sports.
 
 Mexico-
 
 For this Olympics Pedro Ramirez saw that he would need the help of an international design team to create something for this games. So they enlisted the help of these people
+
 For this Olympics they wanted to show the culture of Mexico as the games were being held all over the place and not in just one place. So the design team started to look at Aztec artifices and Mexican folk art, in which they drew their inspiration from for the design of the games. 
-	For the logo they had a mandatory requirement which was that they needed to use the five Olympic rings. They drew their inspiration from the Aztec artifices that they looked at and you can see here one of the artifices that they were looking at. Then here is the logo for this Olympics.
-	You can clearly see the link between them but they brought a more modern style to it with the iconic 60's strip look. They had the lines radiating  outwards to signify Mexico as an emitting or expanding centre to the rest of the world. This then evolved into a type face and was used every were from stamps to tickets.
+
+For the logo they had a mandatory requirement which was that they needed to use the five Olympic rings. They drew their inspiration from the Aztec artifices that they looked at and you can see here one of the artifices that they were looking at. Then here is the logo for this Olympics.
+
+You can clearly see the link between them but they brought a more modern style to it with the iconic 60's strip look. They had the lines radiating  outwards to signify Mexico as an emitting or expanding centre to the rest of the world. This then evolved into a type face and was used every were from stamps to tickets.
+
 For this Olympics they also had statues outside the events which acted like signs for the attendees. Even the New York Times said that if you couldn't speak any language you could still get about if your weren't colour blind. 
+
 They were lucky to have such an amazing system in place all ready from the Tokyo Olympics. But with this Olympic pictograms the decided to focus on  more of an expressive detail in which some of the glyphs found in Mexican preHispanic cultures. 
-Then lastly they had a dick tonne of colour every were hahahahahaha
 
 
 

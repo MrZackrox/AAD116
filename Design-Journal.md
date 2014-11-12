@@ -89,6 +89,8 @@ We then looked at books because for many years this was the only way to share in
 				
 At this time you have lovely examples of amazing design talent with the illuminated manuscripts that were made. This technique consists of words being surrounded in decoration such as boarders, initials and so on. This type of book making was only for the rich our for special books such as the main Bible for a Church. A very famous book that was done in this style in the <a href="http://en.wikipedia.org/wiki/Book_of_Kells">Book of Kells</a> which about the four Gospels of the New Testament.
 
+In this lecture I was doing a bit of doodling and I had a crack at turning and f into
+
 ##Friday Seminar
 
 With this seminar we got introduced to GitHub. As with anything new it all seemed a bit confusing, but once it was explained to us what each thing done it became quite simple to use. With this we need to set up a home page for ourselves so that we can get our work out to the world. 

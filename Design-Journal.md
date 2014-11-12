@@ -117,6 +117,12 @@ With a new week begging we started to look at Guttenberg and moveable type. We s
 
 Sense I have all ready been keen on typography I have all ready seen a lot's of examples of the amazing talent that's out there. For me I like hand lettering better, I saw this post on <a href="http://www.reddit.com/">Reddit</a> which just blew my mind and inspired it. The <a href="http://imgur.com/a/h6fss">post</a> was just some typography that this guy done, but for some reason it just mead me fell oddly wired about my self as I questioned my whole being wondering about how good I could be at it. The guy who done typography is called <a href="http://seanwes.com/">Sean McCabe</a>, he is a very talented guy and his work is just amazing. From seeing his work I have all ways tried now and again to do some of type me self but was only ok at it. Though when starting this course I have saw a lot more inspirational things which is making me stick at doing it sort of.
 
+##Laptop went haywire
+
+I would like to say here that my laptop decided to self destruct and for a week and a bit it completly throw me of my game, but I fell that this was also a blessing in disguise as it got my a way from my laptop and it allowed me to sort things out in the real world.
+
+I have followed Seans work for a while now and I am only starting to delive deep into the depths of learning the ways of typorgaphy myself. I have collected a lot of other inspirati from other peopler but these are mainly just from people posting to the subreddits that I am subscribed to.
+
 Week 4
 ------
 

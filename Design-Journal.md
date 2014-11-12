@@ -91,7 +91,7 @@ At this time you have lovely examples of amazing design talent with the illumina
 
 In this lecture I was doing a bit of doodling and I tryed out this style. I done it in the way were the first letter of the first word in the sentance is big. You can see this below, I know it is nothing special but I like it as it was done on the fly with out much thought put into it. You might be thinking this is a bad thing but this actualy is meant to help you draw and visualise things better when you draw/ doodle with out you consions knowing you are.
 
-![Illuminated F](https://www.flickr.com/photos/117329603@N05/15444990389/)
+![Illuminated-F](https://farm6.staticflickr.com/5602/15444990389_337959b580_z.jpg)
 
 ##Friday Seminar
 

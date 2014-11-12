@@ -89,7 +89,9 @@ We then looked at books because for many years this was the only way to share in
 				
 At this time you have lovely examples of amazing design talent with the illuminated manuscripts that were made. This technique consists of words being surrounded in decoration such as boarders, initials and so on. This type of book making was only for the rich our for special books such as the main Bible for a Church. A very famous book that was done in this style in the <a href="http://en.wikipedia.org/wiki/Book_of_Kells">Book of Kells</a> which about the four Gospels of the New Testament.
 
-In this lecture I was doing a bit of doodling and I had a crack at turning and f into
+In this lecture I was doing a bit of doodling and I tryed out this style. I done it in the way were the first letter of the first word in the sentance is big. You can see this below, I know it is nothing special but I like it as it was done on the fly with out much thought put into it. You might be thinking this is a bad thing but this actualy is meant to help you draw and visualise things better when you draw/ doodle with out you consions knowing you are.
+
+![Illuminated F](https://www.flickr.com/photos/117329603@N05/15444990389/)
 
 ##Friday Seminar
 

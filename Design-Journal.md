@@ -89,6 +89,10 @@ We then looked at books because for many years this was the only way to share in
 				
 At this time you have lovely examples of amazing design talent with the illuminated manuscripts that were made. This technique consists of words being surrounded in decoration such as boarders, initials and so on. This type of book making was only for the rich our for special books such as the main Bible for a Church. A very famous book that was done in this style in the <a href="http://en.wikipedia.org/wiki/Book_of_Kells">Book of Kells</a> which about the four Gospels of the New Testament.
 
+In this lecture I was doing a bit of doodling and I tryed out this style. I done it in the way were the first letter of the first word in the sentance is big. You can see this below, I know it is nothing special but I like it as it was done on the fly with out much thought put into it. You might be thinking this is a bad thing but this actualy is meant to help you draw and visualise things better when you draw/ doodle with out you consions knowing you are.
+
+![Illuminated-F](https://farm6.staticflickr.com/5602/15444990389_337959b580_z.jpg)
+
 ##Friday Seminar
 
 With this seminar we got introduced to GitHub. As with anything new it all seemed a bit confusing, but once it was explained to us what each thing done it became quite simple to use. With this we need to set up a home page for ourselves so that we can get our work out to the world. 
@@ -117,8 +121,49 @@ With a new week begging we started to look at Guttenberg and moveable type. We s
 
 Sense I have all ready been keen on typography I have all ready seen a lot's of examples of the amazing talent that's out there. For me I like hand lettering better, I saw this post on <a href="http://www.reddit.com/">Reddit</a> which just blew my mind and inspired it. The <a href="http://imgur.com/a/h6fss">post</a> was just some typography that this guy done, but for some reason it just mead me fell oddly wired about my self as I questioned my whole being wondering about how good I could be at it. The guy who done typography is called <a href="http://seanwes.com/">Sean McCabe</a>, he is a very talented guy and his work is just amazing. From seeing his work I have all ways tried now and again to do some of type me self but was only ok at it. Though when starting this course I have saw a lot more inspirational things which is making me stick at doing it sort of.
 
+##Laptop went haywire
+
+I would like to say here that my laptop decided to self destruct and for a week and a bit it completly throw me of my game, but I fell that this was also a blessing in disguise as it got my a way from my laptop and it allowed me to sort things out in the real world.
+
+I have followed Seans work for a while now and I am only starting to delive deep into the depths of learning the ways of typorgaphy myself. I have collected a lot of other inspiration from other people but these are mainly just from people posting to the subreddits that I am subscribed to.
+
+Another lettering expert that I draw inspirtation from is Jessica Hische. She is a letter/ Illustrator based in Boston, who has been doing amazing work for the past number of years. I first saw here how many other people saw her and that was through a side project that she does called The Daily Drop Cap. What this evolves is her picking a letter and designing it in a new style every other day. When I saw this I fell in love with her work and spent hours looking at the vast collection of her past work that she has done.
+
+This has also inspired me to try out my own side project called the DollHouse Alphabet. This is were I draw a letter but the insides look like a mini house. I have only started and I am taking my time as I am learing as I go with the project. But it has been fun for me to try ot my skill, that is if have any. I am sadly still only on A but I am getting there trying out new things to see what work best so that the rest will go smoother (I hope).
+
 Week 4
 ------
+
+For this weeks lecture we looked at four different art forms. This was because at this point in our history of design we are at the second Industrial Revolution which happened in and about the 1850s. At this time you saw a massive change in society with new inventions like the light bulb, vehicles photography and many more. So what you saw was an increase of demand for materials to build these things which didn't leave much room for people to make quality work. Then from this you saw artists and designs swimming with the current or people trying to oppose it. This is where the four different art forms come into play as they were the main one at this time and had a massive influence in where we are to day with art and design.
+
+Japonism
+
+We started to see an influx of this style of art in the 1850s as trading routes started to re-open up between Japan and Europe. This was a style that many of the artist in Europe had seen so it changed the way some of them worked. This art style consists of bold colours with flat designs.
+
+Hokusai is one of the most famous Japonism artists. He has also painted one of the most famous painting in this style the painting is The Great Wave off Kanagawa.
+
+With this image you can see the clear style of Japonisme, with the bold white colour which is emphasized by the dark bold blue.
+
+This style inspired many artists but I looked at Vincent Van Gogh as I love his work (and I'm a Doctor Who fan), thought it was mostly Japanese woodcuts that they took their inspiration from. It was mainly just Van Gogh copying other peoples work but made slight changes to them by making a big contrast in the colours and so on. Below you can see the original and his one, if you can't tell the one on the right is Van Gogh's painting.
+
+Arts and Crafts Movement
+
+This art form consists of the artist using nature as inspiration. It came about in the 1860s but more so in its later days around 1910. The main figure around at this time was William Morris, who pushed this art form into the spotlight.
+
+Art Nouveau
+
+This is the art style can be seen in many different types of art from ceramics to jewellery design and a few more. The reason for this is because it drew its inspiration from nature and the arts and crafts that where brought over from Japan. I have chosen to research this art style for the project this week so if you want more information about it just scroll down a bit.
+
+The Glasgow School
+
+This really isn't an art form but more of a group of amazing artists that had a profound job in making art what it was back then. It is made up of many artists but there were as all ways the main ones. The school made many impacts in four styles of art when they got an economic boom in the 19th century, these were the Art Nouveau movement then architecture, painting and in interior design.
+
+Vienna Secession
+
+The Vienna Secession once again isn't an art form but a Union of Austrain Artists. It was formed in 1879 when the group of artists left the Association of Austrain Artists. The main person in the group was Gustav Kilmt who was the first president of the club. There was not one style that the group was known for as they tried every thing hoping that they would create a new style that was not boned to any historical influences.
+
+Sense Gustav Klimt was the leading man in the group his art work is the most famous you will probable recognise his work as it is so unique. One of his most famous works of art is The Kiss.
+
 
 Week 5
 ------
@@ -166,9 +211,15 @@ For this Olympics Pedro Ramirez saw that he would need the help of an internatio
 For this Olympics they wanted to show the culture of Mexico as the games were being held all over the place and not in just one place. So the design team started to look at Aztec artifices and Mexican folk art, in which they drew their inspiration from for the design of the games. 
 
 For the logo they had a mandatory requirement which was that they needed to use the five Olympic rings. They drew their inspiration from the Aztec artifices that they looked at and you can see here one of the artifices that they were looking at. Then here is the logo for this Olympics.
+<<<<<<< HEAD
 
 You can clearly see the link between them but they brought a more modern style to it with the iconic 60's strip look. They had the lines radiating  outwards to signify Mexico as an emitting or expanding centre to the rest of the world. This then evolved into a type face and was used every were from stamps to tickets.
 
+=======
+
+You can clearly see the link between them but they brought a more modern style to it with the iconic 60's strip look. They had the lines radiating  outwards to signify Mexico as an emitting or expanding centre to the rest of the world. This then evolved into a type face and was used every were from stamps to tickets.
+
+>>>>>>> origin/master
 For this Olympics they also had statues outside the events which acted like signs for the attendees. Even the New York Times said that if you couldn't speak any language you could still get about if your weren't colour blind. 
 
 They were lucky to have such an amazing system in place all ready from the Tokyo Olympics. But with this Olympic pictograms the decided to focus on  more of an expressive detail in which some of the glyphs found in Mexican preHispanic cultures. 

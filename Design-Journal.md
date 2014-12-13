@@ -1,4 +1,4 @@
-=AAD116
+AAD116
 ======
 
 Design Journal  for Introduction to Communication Design
@@ -229,6 +229,15 @@ Week 6
 
 Week 7
 ------
+
+WWII, HfG Ulm and Modernism in the US
+-------------------------------------
+
+When World War II started many people from Europe flad for their lifes when the Germans came to invade their cities. In this pool of people were most of the infulential designers that came from Europe who painted in a way Nazis did not like (or they might just had not understood the art) wich included Max Beckmann and a list of many other great desingers.
+
+Why these artists had to flew was because the painted in a mordern still which is called Modernisim ironically. Modernism was artist at the time not trying to convay to the rules around them, they were wanting to bring in a new era of art wich took inspiration from the modern day around them. So as I said earlier most of the artist had to flew as the would have been killed, so most of them ended up in the promise land that America.
+
+Luckly for us Europens all hope was not lost as a school stood strong in the midst of the war and this school is known as th Ulm School od Design
 
 Week 8
 ------

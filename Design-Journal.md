@@ -237,7 +237,7 @@ When World War II started many people from Europe flad for their lifes when the 
 
 Why these artists had to flew was because the painted in a mordern still which is called Modernisim ironically. Modernism was artist at the time not trying to convay to the rules around them, they were wanting to bring in a new era of art wich took inspiration from the modern day around them. So as I said earlier most of the artist had to flew as the would have been killed, so most of them ended up in the promise land that America.
 
-Luckly for us Europens all hope was not lost as a school stood strong in the midst of the war and this school is known as th Ulm School od Design
+Luckly for us Europens all hope was not lost as a school stood strong in the midst of the war and this school is known as the Ulm School of Design. The school was proudly made in the honor of two members from the Wite Rose, which was a resistance group during the war. The two people from the group who were executed by the Nazis were Sophie and Hans Scholl. I say the school was set up but this connection goes back further when the school was something different. At this time their older brother Inge Scholl in 1950 set up The Scholl Foundation.
 
 Week 8
 ------

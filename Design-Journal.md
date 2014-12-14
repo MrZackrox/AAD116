@@ -239,6 +239,8 @@ Why these artists had to flew was because the painted in a mordern still which i
 
 Luckly for us Europens all hope was not lost as a school stood strong in the midst of the war and this school is known as the Ulm School of Design. The school was proudly made in the honor of two members from the Wite Rose, which was a resistance group during the war. The two people from the group who were executed by the Nazis were Sophie and Hans Scholl. I say the school was set up but this connection goes back further when the school was something different. At this time their older brother Inge Scholl in 1950 set up The Scholl Foundation.
 
+So from this foundation steamed The Ulm School of Design when Otl Aicher and Max Bill came along and partenred with Inge, the school quickly became a success. It is seen as one of the most influential design schools to ever be with Bauhaus being the most. The school operated during 1953-1968 and brought a handful of new ways to apropache the design process in certain fileds of design. Some of these are Product Design, Filmmaking and Visual Communication. 
+
 Week 8
 ------
 

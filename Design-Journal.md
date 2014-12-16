@@ -239,10 +239,17 @@ Why these artists had to flew was because the painted in a mordern still which i
 
 Luckly for us Europens all hope was not lost as a school stood strong in the midst of the war and this school is known as the Ulm School of Design. The school was proudly made in the honor of two members from the Wite Rose, which was a resistance group during the war. The two people from the group who were executed by the Nazis were Sophie and Hans Scholl. I say the school was set up but this connection goes back further when the school was something different. At this time their older brother Inge Scholl in 1950 set up The Scholl Foundation.
 
-So from this foundation steamed The Ulm School of Design when Otl Aicher and Max Bill came along and partenred with Inge, the school quickly became a success. It is seen as one of the most influential design schools to ever be with Bauhaus being the most. The school operated during 1953-1968 and brought a handful of new ways to apropache the design process in certain fileds of design. Some of these are Product Design, Filmmaking and Visual Communication. 
+So from this foundation steamed The Ulm School of Design when Otl Aicher and Max Bill came along and partenred with Inge, the school quickly became a success. It is seen as one of the most influential design schools to ever be with Bauhaus being the most. The school operated during 1953-1968 and brought a handful of new ways to apropache the design process in certain fileds of design. Some of these are Product Design, Filmmaking and Visual Communication there are a few more, two more to be percise. There was also one thing that the school pioneered and that was semoitics, what is semoitics most of you reading just asked yourself (if anyone is reading this that is). Semiotics is the study of signs and symbols, more importanly the study of meaning-making. The reas of what it goes into sort of went over my head so I best not write any more about it.
+
+So the school
 
 Week 8
 ------
+
+This week we were off as one of my lectures was running a design conference called Break. If you want to find out about the talks at the conference [AAD115](!https://github.com/MrZackrox/AAD115/blob/master/Design-Journal.md) is were I have wrote about all that.
+
+As we were off this week, we used it as a catch up week. We had to go to the talk one day of the week but the rest we were off allowed 
+
 
 Week 9
 ------

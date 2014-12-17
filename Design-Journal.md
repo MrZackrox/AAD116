@@ -248,7 +248,7 @@ Week 8
 
 This week we were off as one of my lectures was running a design conference called Break. If you want to find out about the talks at the conference [AAD115](!https://github.com/MrZackrox/AAD115/blob/master/Design-Journal.md) is were I have wrote about all that.
 
-As we were off this week, we used it as a catch up week. We had to go to the talk one day of the week but the rest we were off allowed 
+As we were off this week, we used it as a catch up week. We had to go to the talk one day of the week but the rest we were off to do what we please. 
 
 
 Week 9
